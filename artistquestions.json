@@ -1,0 +1,34 @@
+"artist questions": [
+    {
+        "id": 1,
+        "question": "When is [name]'s next concert?"
+    },
+    {
+        "id": 2,
+        "question": "How can I purchase tickets for [name]'s concerts?"
+    },
+    {
+        "id": 3,
+        "question": "Are there any VIP or meet-and-greet packages available for [name]'s shows?"
+    },
+    {
+        "id": 4,
+        "question": "Will [name] be performing in my city?"
+    },
+    {
+        "id": 5,
+        "question": "Can I request songs for [name] to perform at his upcoming concerts?"
+    },
+    {
+        "id": 6,
+        "question": "What COVID-19 safety measures are in place for [name]'s upcoming events?"
+    },
+    {
+        "id": 7,
+        "question": "Are there age restrictions for [name]'s shows?"
+    },
+    {
+        "id": 8,
+        "question": "How can I stay updated on [name]'s upcoming events and tour announcements?"
+    }
+]
