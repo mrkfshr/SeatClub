@@ -1,4 +1,5 @@
-"artist questions": [
+{
+    "artist questions" : [
     {
         "id": 1,
         "question": "When is [name]'s next concert?"
@@ -32,3 +33,4 @@
         "question": "How can I stay updated on [name]'s upcoming events and tour announcements?"
     }
 ]
+}
